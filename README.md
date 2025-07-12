@@ -18,4 +18,4 @@ future ideas
 - use qiskit if feeling fancy
 
   about me
-  hi! I'm swati choudhary, 2nd year electrical engineering student who got curious about quantum stuff, typed BB84 on google and ended up here
+  Hi! I'm swati choudhary, 2nd year electrical engineering student who got curious about quantum stuff, typed BB84 on google and ended up here
